@@ -11,9 +11,10 @@ Not much else here yet — still figuring out what's worth showing off.
 
 languages
 - JS
-
+  
 Hobbies
 - 📖 Web novels, Anime/donghua, manga/manhwa
+  
 🎮 Gaming
 - Find me typically playing MLBB, or any story driven game like darksouls.
 
