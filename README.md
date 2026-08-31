@@ -2,19 +2,22 @@
 
 Backend dev, currently trying to go down the DevSecOps rabbit hole — I like breaking things to understand how they work, then trying not to do that in production.
 
-Not much else here yet — still figuring out what's worth showing off.
-⚙️ DevOps
-Jenkins
-GitHub actions
-Docker
-languages
-🎉 JS
-Hobbies
-📖 Web novels, Anime/donghua, manga/manhwa
-🎮 Gaming
-Find me typically playing MLBB, or any story driven game like darksouls.
+Not much else here yet — still figuring out what's worth showing off. 
 
-- 📫 How to reach me: ...
+⚙️ DevOps
+- Jenkins
+- GitHub actions
+-Docker
+
+languages
+- JS
+
+Hobbies
+- 📖 Web novels, Anime/donghua, manga/manhwa
+🎮 Gaming
+- Find me typically playing MLBB, or any story driven game like darksouls.
+
+📫 How to reach me: 
 email:richardrock10@gmail.com
 
 <!--
