@@ -1,8 +1,9 @@
 ## Hi I'm Richard 👋
 
-Backend dev, currently trying to go down the DevSecOps rabbit hole — I like breaking things to understand how they work, then trying not to do that in production.
+Backend dev, currently trying to go down the DevSecOps rabbit hole, I like breaking things to understand how they work, then trying not to do that in production.
 
-Not much else here yet — still figuring out what's worth showing off. 
+Not much else here yet 
+still figuring out what's worth showing off. 
 
 ⚙️ DevOps
 - Jenkins
